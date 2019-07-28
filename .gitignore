@@ -75,3 +75,10 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+*.uasset
+BattleTankV2/Content/AnimalVarietyPack/
+*.umap
+*.res
+BattleTankV2/Intermediate/
+*.ini
+BattleTankV2/Binaries/Win64/UE4Editor-BattleTankV2.pdb
